@@ -13,24 +13,29 @@ export default function Projects() {
     <div class = "projects-grid-wrapper">
         <div class="projects-grid">
             <a href="./assets/images/horiseon.PNG" target="_blank" class="project horiseon">
+              <img src={horiseon}></img>
                 <div class="project-name">
                     <h3>Horiseon</h3>
                     <p>HTML/CSS</p>
                 </div>
             </a>
             <a href="https://github.com/mets0811/run-buddy" target="_blank" class="project run-buddy-1">
+            <img src={runbuddy}></img>
                 <div class="project-name">
                     <h3>Run Buddy 1</h3>
                     <p>HTML/CSS</p>
+                    
                 </div>
             </a>
-            <a href="https://github.com/DonL44/newage-datingblog" target="_blank" class="project run-buddy-2">
+            <a href="https://github.com/DonL44/newage-datingblog" target="_blank" class="project1">
+            <img src={portfolio}></img>
                 <div class="project-name">
                     <h3>Run Buddy 2</h3>
                     <p>HTML/CSS</p>
                 </div>
             </a>
             <a href="https://spencerhulse.github.io/newJobs-you/landingpage.html" target="_blank" class="group project">
+            <img src={flexbox}></img>
                 <div class="project-name">
                     <h3>New Jobs (you)</h3>
                     <p>HTML/CSS</p>
