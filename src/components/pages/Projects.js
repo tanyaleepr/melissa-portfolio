@@ -19,10 +19,10 @@ export default function Projects() {
                     <p>HTML/CSS</p>
                 </div>
             </a>
-            <a href="https://github.com/mets0811/run-buddy" target="_blank" class="project run-buddy-1">
+            <a href="https://github.com/lukegranered/video-devs/tree/main" target="_blank" class="video-dev">
             <img src={runbuddy}></img>
                 <div class="project-name">
-                    <h3>Run Buddy 1</h3>
+                    <h3>video-dev</h3>
                     <p>HTML/CSS</p>
                     
                 </div>
